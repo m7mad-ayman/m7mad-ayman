@@ -11,18 +11,18 @@ About Me
 🔧 Current Focus: Developing scalable backend solutions with Django, PostgreSQL, and real-time technologies
 
 🛠️ Skills
-Languages: Python , c++ 
+      Languages: Python , c++ 
 
-Frameworks: Django
+      Frameworks: Django
 
-APIs: RESTful API Design & Development
-
-Databases: PostgreSQL
-
-Containerization: Docker
-
-Version Control: Git & GitHub
-
-Testing: Unit Testing
-
-Task Queues: Celery
+      APIs: RESTful API Design & Development
+      
+      Databases: PostgreSQL
+      
+      Containerization: Docker
+      
+      Version Control: Git & GitHub
+      
+      Testing: Unit Testing
+      
+      Task Queues: Celery
