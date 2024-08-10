@@ -11,6 +11,7 @@ About Me
 🔧 Current Focus: Developing scalable backend solutions with Django, PostgreSQL, and real-time technologies
 
 🛠️ Skills
+
       Languages: Python , c++ 
 
       Frameworks: Django
